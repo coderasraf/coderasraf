@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @coderasraf
 - 👀 I’m interested in Web programming
-- 🌱 I’m currently learning ... MERN
 - 💞️ I’m looking to collaborate on Web projects
 - 📫 How to reach me ... hassasraf@gmail.com
 
