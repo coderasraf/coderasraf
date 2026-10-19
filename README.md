@@ -1,35 +1,68 @@
-<h1 align="left">Hi, I’m Ashraf Siddik 👋</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coderasraf/coderasraf/master/assets/banner-dark.svg" />
+  <img src="https://raw.githubusercontent.com/coderasraf/coderasraf/master/assets/banner-light.svg" width="100%" alt="Ashraf Siddik, Shopify developer and CRO specialist. 7+ years on Shopify, 1,000+ projects, 4.96 average from 719 reviews, clients in 35 countries." />
+</picture>
 
-<a href="https://ashraf-siddik.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3200&pause=900&color=6B8E00&vCenter=true&width=620&lines=Shopify+developer+%26+CRO+specialist;I+help+Shopify+brands+sell+more;Themes+%C2%B7+Custom+apps+%C2%B7+Speed+%C2%B7+Automation" alt="Shopify developer & CRO specialist" />
-</a>
+<p align="center">
+  <a href="https://ashraf-siddik.com"><img src="https://img.shields.io/badge/Website-ashraf--siddik.com-C6F24E?style=flat-square&labelColor=0B0B0C" alt="Website" /></a>
+  <a href="https://ashraf-siddik.com/contact/#free-review"><img src="https://img.shields.io/badge/Free-3--point_store_review-C6F24E?style=flat-square&labelColor=0B0B0C" alt="Free 3-point store review" /></a>
+  <a href="https://ashraf-siddik.com/reviews/"><img src="https://img.shields.io/badge/Reviews-4.96_%E2%98%85_from_719-C6F24E?style=flat-square&labelColor=0B0B0C" alt="4.96 stars from 719 reviews" /></a>
+  <a href="https://www.linkedin.com/in/hassasraf/"><img src="https://img.shields.io/badge/LinkedIn-hassasraf-C6F24E?style=flat-square&labelColor=0B0B0C" alt="LinkedIn" /></a>
+  <a href="mailto:hello@ashraf-siddik.com"><img src="https://img.shields.io/badge/Email-hello%40ashraf--siddik.com-C6F24E?style=flat-square&labelColor=0B0B0C" alt="Email" /></a>
+</p>
+
+### Hi, I’m Ashraf 👋
 
 I’m an independent **Shopify developer, CRO specialist and Shopify Partner** based in Sylhet, Bangladesh, working with brands in the US, UK and Europe.
 
 I find what stops visitors from buying, then fix it in the storefront with conversion-focused design, clean Liquid and JavaScript, custom apps and automation. I don’t stop at a report: every change gets shipped and measured.
 
-<p>
-  <a href="https://ashraf-siddik.com"><img src="https://img.shields.io/badge/Website-ashraf--siddik.com-C6F24E?style=flat-square&labelColor=0B0B0C" alt="Website" /></a>
-  <a href="https://ashraf-siddik.com/contact/#free-review"><img src="https://img.shields.io/badge/Free-3--point_store_review-C6F24E?style=flat-square&labelColor=0B0B0C" alt="Free 3-point store review" /></a>
-  <a href="https://www.linkedin.com/in/hassasraf/"><img src="https://img.shields.io/badge/LinkedIn-hassasraf-C6F24E?style=flat-square&labelColor=0B0B0C" alt="LinkedIn" /></a>
-  <a href="mailto:hello@ashraf-siddik.com"><img src="https://img.shields.io/badge/Email-hello%40ashraf--siddik.com-C6F24E?style=flat-square&labelColor=0B0B0C" alt="Email" /></a>
-</p>
-
----
-
-### ⚡ By the numbers
-
-| 7+ years | 1,000+ | 4.96 ★ | 35 |
-|:---:|:---:|:---:|:---:|
-| building on Shopify | Shopify projects delivered | average from [719 client reviews](https://ashraf-siddik.com/reviews/) | countries served |
-
 ### 🛠️ What I do
 
-- **[Shopify CRO](https://ashraf-siddik.com/services/shopify-cro/)**: audits, funnel analysis, heatmaps and A/B tests that turn more visitors into buyers
-- **[Shopify development](https://ashraf-siddik.com/services/shopify-development/)**: custom Online Store 2.0 themes, redesigns, Figma to Shopify, Shopify Plus
-- **[Custom Shopify apps](https://ashraf-siddik.com/services/shopify-app-development/)**: Admin & Storefront API, webhooks, theme app extensions
-- **[SEO & speed](https://ashraf-siddik.com/services/shopify-seo-speed/)**: Core Web Vitals, technical SEO, structured data, safe migrations
-- **[AI & automation](https://ashraf-siddik.com/services/shopify-ai-automation/)**: Shopify Flow, n8n, Make, Zapier and OpenAI/Claude workflows that remove manual work
+| | Service | What it covers |
+|:---:|---|---|
+| 📈 | **[Shopify CRO](https://ashraf-siddik.com/services/shopify-cro/)** | Audits, funnel analysis, heatmaps and A/B tests that turn more visitors into buyers |
+| 🎨 | **[Shopify development](https://ashraf-siddik.com/services/shopify-development/)** | Custom Online Store 2.0 themes, redesigns, Figma to Shopify, Shopify Plus |
+| 🧩 | **[Custom Shopify apps](https://ashraf-siddik.com/services/shopify-app-development/)** | Admin & Storefront API, webhooks, theme app extensions |
+| ⚡ | **[SEO & speed](https://ashraf-siddik.com/services/shopify-seo-speed/)** | Core Web Vitals, technical SEO, structured data, safe migrations |
+| 🤖 | **[AI & automation](https://ashraf-siddik.com/services/shopify-ai-automation/)** | Shopify Flow, n8n, Make, Zapier and OpenAI/Claude workflows that remove manual work |
+
+### 🛍️ Live Shopify stores I’ve built
+
+<table>
+  <tr>
+    <td width="33%" valign="top"><a href="https://irelandseyeknitwear.com/"><img src="assets/stores/irelandseye-knitwear.jpg" alt="IrelandsEye Knitwear Shopify store" /></a><br /><b><a href="https://irelandseyeknitwear.com/">IrelandsEye Knitwear</a></b><br /><sub>Fashion & knitwear</sub></td>
+    <td width="33%" valign="top"><a href="https://perfumebey.com/"><img src="assets/stores/perfumebey.jpg" alt="PerfumeBey Shopify store" /></a><br /><b><a href="https://perfumebey.com/">PerfumeBey</a></b><br /><sub>Beauty & fragrance</sub></td>
+    <td width="33%" valign="top"><a href="https://knuska.nl/"><img src="assets/stores/knuska.jpg" alt="Knuska Shopify store" /></a><br /><b><a href="https://knuska.nl/">Knuska</a></b><br /><sub>Furniture & home</sub></td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top"><a href="https://nordicgum.com/"><img src="assets/stores/nordicgum.jpg" alt="Nordic Gum USA Shopify store" /></a><br /><b><a href="https://nordicgum.com/">Nordic Gum USA</a></b><br /><sub>Health & oral care</sub></td>
+    <td width="33%" valign="top"><a href="https://123telecomshop.nl/"><img src="assets/stores/123telecomshop.jpg" alt="123TelecomShop Shopify store" /></a><br /><b><a href="https://123telecomshop.nl/">123TelecomShop</a></b><br /><sub>Consumer electronics</sub></td>
+    <td width="33%" valign="middle" align="center"><a href="https://ashraf-siddik.com/work/"><b>See more work →</b></a><br /><sub>Case studies & projects</sub></td>
+  </tr>
+</table>
+
+### 💬 What clients say
+
+> **★★★★★** Very professional and deep understanding of the Shopify ecosystem. Friendly and proactive communication. Delivered on time with good quality
+>
+> <sub><img src="assets/flags/gb.svg" height="11" alt="" /> <b>ilyam802</b>, United Kingdom · Custom coding</sub>
+
+> **★★★★★** Maybe the 10 time working together! Love him! Very good work and much faster than expected. Agreed to deliver within 10-15 days, but it was ready after 8 days.
+>
+> <sub><img src="assets/flags/nl.svg" height="11" alt="" /> <b>rensvermeijden</b>, Netherlands · Store design</sub>
+
+> **★★★★★** Great work delivered once again! I have worked with several people but Ashraf surpasses them all. Very clear communication. In my opinion, Ashraf is of value in any business🙌
+>
+> <sub><img src="assets/flags/nl.svg" height="11" alt="" /> <b>michon61</b>, Netherlands · Custom coding</sub>
+
+<sub>Real reviews, quoted word for word. <a href="https://ashraf-siddik.com/reviews/">Read all 719 →</a></sub>
+
+### 🧭 How I work
+
+| 1 · Audit | 2 · Plan | 3 · Build | 4 · Measure |
+|---|---|---|---|
+| I review your storefront, customer journey and analytics to find the biggest friction points. | You get a practical roadmap, ranked by expected impact, effort and priority. | Changes are built on a duplicate theme and tested across devices before launch. | We track what changed and keep improving what matters. |
 
 ### 🧰 Tech I work with
 
@@ -74,6 +107,23 @@ I find what stops visitors from buying, then fix it in the storefront with conve
 
 Before focusing fully on Shopify, I built with WordPress, PHP, React, Vue and Node.js. Many of the older repositories here are from that time. Most of my current client work lives in private repos and client stores, so the public code is only a small part of it.
 
-### 📫 Let’s work together
+### 🟩 Shipping, week after week
 
-Send me your store URL and I’ll reply with **three practical conversion opportunities, free**: [ashraf-siddik.com/contact](https://ashraf-siddik.com/contact/#free-review)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coderasraf/coderasraf/output/activity-dark.svg" />
+  <img src="https://raw.githubusercontent.com/coderasraf/coderasraf/output/activity-light.svg" width="100%" alt="Animated contribution graph" />
+</picture>
+
+### ✍️ Latest from the blog
+
+- [Why Shopify Stores Lose Sales on Mobile: A Practical CRO Checklist](https://ashraf-siddik.com/insights/shopify-mobile-cro-checklist/)
+- [Shopify CRO Audit Checklist for DTC Brands](https://ashraf-siddik.com/insights/shopify-cro-audit-checklist/)
+- [When to Build a Custom Shopify App Instead of Adding Another Subscription](https://ashraf-siddik.com/insights/custom-shopify-app-vs-subscription/)
+
+---
+
+<p align="center">
+  <b>Want more sales from the traffic you already have?</b><br />
+  Send me your store URL and I’ll reply with <b>three practical conversion opportunities, free</b>.<br /><br />
+  <a href="https://ashraf-siddik.com/contact/#free-review"><img src="https://img.shields.io/badge/Get_my_free_store_review_→-C6F24E?style=for-the-badge&labelColor=C6F24E&color=C6F24E" alt="Get my free store review" /></a>
+</p>
