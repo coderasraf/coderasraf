@@ -1,0 +1,33 @@
+# Draws the animated contribution graph (lime theme) used in the profile README.
+# Runs daily and can be started by hand from the Actions tab ("Run workflow").
+name: Contribution graph
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [master]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/activity-light.svg?palette=github-light&color_snake=#0B0B0C&color_dots=#ECEEE6,#DDF59A,#C6F24E,#93C01F,#5B7A0A
+            dist/activity-dark.svg?palette=github-dark&color_snake=#C6F24E&color_dots=#1A1C1E,#2E3D12,#4D6B12,#86B01C,#C6F24E
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: Update contribution graph
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
