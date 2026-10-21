@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 176" width="660" height="176" role="img" aria-label="Shopify Product Exporter: Public product list to CSV">
+<rect x="10.5" y="10.5" width="639" height="155" rx="26" fill="#FFFFFF" stroke="#E4E5DF"/>
+<rect x="34" y="46" width="84" height="84" rx="22" fill="#0B0B0C"/>
+<g transform="translate(56 68) scale(1.6666666666666667)" fill="none" stroke="#C6F24E" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 4v11M7 10l5 5 5-5"/><path d="M5 20h14"/></g>
+<text x="144" y="62" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="19" fill="#5B6B2A">Store research</text>
+<text x="144" y="98" font-family="'Inter','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="600" font-size="27" letter-spacing="-0.4" fill="#0B0B0C">Shopify Product Exporter</text>
+<text x="144" y="130" font-family="'Inter','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" fill="#6B6B72">Public product list to CSV</text>
+<circle cx="604" cy="88" r="21" fill="#F1F2EE"/>
+<g transform="translate(595 79) scale(0.75)" fill="none" stroke="#0B0B0C" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17 17 7M8 7h9v9"/></g>
+</svg>

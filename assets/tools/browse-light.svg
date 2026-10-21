@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 76" width="420" height="76" role="img" aria-label="Browse all 16 free tools">
+<rect x="4" y="4" width="412" height="68" rx="34" fill="#0B0B0C"/>
+<text x="40" y="47" font-family="'Inter','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="600" font-size="23" letter-spacing="-0.2" fill="#FFFFFF">Browse all 16 free tools</text>
+<circle cx="374" cy="38" r="24" fill="#C6F24E"/>
+<g transform="translate(363 27) scale(0.9166666666666666)" fill="none" stroke="#0B0B0C" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></g>
+</svg>
