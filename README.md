@@ -6,6 +6,7 @@
 <p align="center">
   <a href="https://ashraf-siddik.com"><img src="https://img.shields.io/badge/Website-ashraf--siddik.com-C6F24E?style=flat-square&labelColor=0B0B0C" alt="Website" /></a>
   <a href="https://ashraf-siddik.com/contact/#free-review"><img src="https://img.shields.io/badge/Free-3--point_store_review-C6F24E?style=flat-square&labelColor=0B0B0C" alt="Free 3-point store review" /></a>
+  <a href="https://ashraf-siddik.com/free-shopify-tools/"><img src="https://img.shields.io/badge/Free_tools-16_Shopify_tools-C6F24E?style=flat-square&labelColor=0B0B0C" alt="16 free Shopify tools" /></a>
   <a href="https://ashraf-siddik.com/reviews/"><img src="https://img.shields.io/badge/Reviews-4.96_%E2%98%85_from_719-C6F24E?style=flat-square&labelColor=0B0B0C" alt="4.96 stars from 719 reviews" /></a>
   <a href="https://www.linkedin.com/in/hassasraf/"><img src="https://img.shields.io/badge/LinkedIn-hassasraf-C6F24E?style=flat-square&labelColor=0B0B0C" alt="LinkedIn" /></a>
   <a href="mailto:hello@ashraf-siddik.com"><img src="https://img.shields.io/badge/Email-hello%40ashraf--siddik.com-C6F24E?style=flat-square&labelColor=0B0B0C" alt="Email" /></a>
@@ -24,8 +25,27 @@ I find what stops visitors from buying, then fix it in the storefront with conve
 | 📈 | **[Shopify CRO](https://ashraf-siddik.com/services/shopify-cro/)** | Audits, funnel analysis, heatmaps and A/B tests that turn more visitors into buyers |
 | 🎨 | **[Shopify development](https://ashraf-siddik.com/services/shopify-development/)** | Custom Online Store 2.0 themes, redesigns, Figma to Shopify, Shopify Plus |
 | 🧩 | **[Custom Shopify apps](https://ashraf-siddik.com/services/shopify-app-development/)** | Admin & Storefront API, webhooks, theme app extensions |
-| ⚡ | **[SEO & speed](https://ashraf-siddik.com/services/shopify-seo-speed/)** | Core Web Vitals, technical SEO, structured data, safe migrations |
+| 🔍 | **[Shopify SEO](https://ashraf-siddik.com/services/shopify-seo/)** | Technical, product and collection SEO, structured data, safe migrations |
+| ⚡ | **[Speed optimization](https://ashraf-siddik.com/services/shopify-speed-optimization/)** | Core Web Vitals, PageSpeed, app and script clean-up |
 | 🤖 | **[AI & automation](https://ashraf-siddik.com/services/shopify-ai-automation/)** | Shopify Flow, n8n, Make, Zapier and OpenAI/Claude workflows that remove manual work |
+
+### 🔧 Free Shopify tools I built
+
+Sixteen free tools for checking any Shopify store, running the numbers before you pick a plan or product, and naming a new brand. No sign-up, and every result explains what it means.
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top"><b>🔎 Store research</b><br /><br /><a href="https://ashraf-siddik.com/free-shopify-tools/shopify-platform-checker/"><b>Is It Shopify? checker</b></a><br /><sub>What platform any site runs on</sub><br /><br /><a href="https://ashraf-siddik.com/free-shopify-tools/shopify-theme-detector/"><b>Theme detector</b></a><br /><sub>Theme, version and Theme Store link</sub><br /><br /><a href="https://ashraf-siddik.com/free-shopify-tools/shopify-app-detector/"><b>App detector</b></a><br /><sub>Apps and pixels, with the evidence</sub><br /><br /><a href="https://ashraf-siddik.com/free-shopify-tools/shopify-store-analyzer/"><b>Store analyzer</b></a><br /><sub>Catalog, prices, markets in one report</sub><br /><br /><a href="https://ashraf-siddik.com/free-shopify-tools/shopify-revenue-estimator/"><b>Revenue estimator</b></a><br /><sub>Scenarios from the store’s real prices</sub><br /><br /><a href="https://ashraf-siddik.com/free-shopify-tools/shopify-product-exporter/"><b>Product exporter</b></a><br /><sub>Public product list to CSV</sub></td>
+    <td width="33%" valign="top"><b>📈 SEO and performance</b><br /><br /><a href="https://ashraf-siddik.com/shopify-store-checker/"><b>SEO checker</b></a><br /><sub>25 checks with a fix for each</sub><br /><br /><a href="https://ashraf-siddik.com/free-shopify-tools/shopify-speed-checker/"><b>Speed checker</b></a><br /><sub>Core Web Vitals and the slowest apps</sub><br /><br /><br /><b>🧮 Business calculators</b><br /><br /><a href="https://ashraf-siddik.com/free-shopify-tools/shopify-fees-calculator/"><b>Fees calculator</b></a><br /><sub>What each plan really costs a month</sub><br /><br /><a href="https://ashraf-siddik.com/free-shopify-tools/dropshipping-profit-calculator/"><b>Dropshipping profit calculator</b></a><br /><sub>Margin, break-even ROAS and CPA</sub></td>
+    <td width="33%" valign="top"><b>🏷️ Brand and naming</b><br /><br /><a href="https://ashraf-siddik.com/free-shopify-tools/shopify-domain-name-generator/"><b>Domain name generator</b></a><br /><sub>Ideas with a live availability check</sub><br /><br /><a href="https://ashraf-siddik.com/free-shopify-tools/shopify-store-name-generator/"><b>Store name generator</b></a><br /><sub>Brand names you can filter and save</sub><br /><br /><br /><b>🧩 Utilities</b><br /><br /><a href="https://ashraf-siddik.com/free-shopify-tools/favicon-downloader/"><b>Favicon downloader</b></a><br /><sub>Any site’s icons in every size</sub><br /><br /><a href="https://ashraf-siddik.com/free-shopify-tools/source-code-viewer/"><b>Source code viewer</b></a><br /><sub>HTML, headers and search, on any device</sub><br /><br /><a href="https://ashraf-siddik.com/free-shopify-tools/instagram-username-generator/"><b>Instagram usernames</b></a><br /><sub>Handles that fit Instagram’s rules</sub><br /><br /><a href="https://ashraf-siddik.com/free-shopify-tools/tiktok-username-generator/"><b>TikTok usernames</b></a><br /><sub>Handles that fit TikTok’s rules</sub></td>
+  </tr>
+</table>
+
+<p>
+  <a href="https://ashraf-siddik.com/free-shopify-tools/"><img src="https://img.shields.io/badge/Browse_all_16_free_tools_→-0B0B0C?style=for-the-badge&labelColor=0B0B0C&color=0B0B0C" alt="Browse all 16 free Shopify tools" /></a>
+</p>
+
+<sub>Independent tools, not made or endorsed by Shopify. They read public pages only and respect each site’s robots.txt.</sub>
 
 ### 🛍️ Live Shopify stores I’ve built
 
